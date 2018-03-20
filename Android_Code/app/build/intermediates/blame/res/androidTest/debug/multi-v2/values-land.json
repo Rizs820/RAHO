@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\FDSP\\RAHO\\RAHO\\RAHO\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2cc97383fcc51122b0aee76c66159fa9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\3239290d17f68f1330f6d26dfbf5313b\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "208,256,306,362,419",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "250,300,356,413,469"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "328,375,424,479,535",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "370,419,474,530,585"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f1c4f4d583d2ce05e9fffc5f71c42d1b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "590",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "767"
+                    }
+                }
+            ]
+        }
+    ]
+}

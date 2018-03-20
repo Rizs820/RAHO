@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\FDSP\\RAHO\\RAHO\\RAHO\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\3239290d17f68f1330f6d26dfbf5313b\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "207",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2cc97383fcc51122b0aee76c66159fa9\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "206,482,553,636,1046",
+                        "endLines": "9,10,11,17,23",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "477,548,631,1041,1463"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.5.4.aar\\41b7fe41489b3e66912a3f95a8cb2efc\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,428",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "423,855"
+                    },
+                    "to": {
+                        "startLines": "24,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "1468,1841",
+                        "endLines": "30,39",
+                        "endColumns": "12,12",
+                        "endOffsets": "1836,2268"
+                    }
+                }
+            ]
+        }
+    ]
+}

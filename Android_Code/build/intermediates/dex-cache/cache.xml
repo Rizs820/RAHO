@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\twowayview-0.1.4.aar\724ec8fa3b44a2bb6787a9c1d788878e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\sdk-0.9.4.aar\8ecd27570b0e9f1e5b914c91514c19be\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\view-pager-transforms-1.2.32.aar\ab6e09ba478f802d7b1dfb4368cb7457\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\e9c2fefd3b5fd4a50d997b1fa7c7b10a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\camera-0.6.12.aar\1e9f39ad260a59af971599677776063d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="733494514a30e5e5c60da15444b7d720590679c4">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\play-services-location-8.4.0.aar\f3115ffe1839bb0c729a24b2e81e1e30\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\660afc75ca662ef477c0f122a6e4f786\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\TedPicker-v1.0.10.aar\0dab3951f66f891159f2db21b92643a3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1d8ad0befc6e3e3bb2e32c3b1595ad4bfa26987">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\core-0.8.5.4.aar\41b7fe41489b3e66912a3f95a8cb2efc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="828f50e8aff9f21c75e61a319c38993efc0590ca">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\238053be773cdd5130919257b1a77ebb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\3239290d17f68f1330f6d26dfbf5313b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2fc859b7abb78d29169f6a582b45cbe1f3f1a4cc">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\0d52348b1cc16d461ea86e33d85ba477\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\android-pathview-1.0.8.aar\51d26403551b63c8e9d86e9bba5d5d58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68c6a96cb202c8974833c319dc4a340f29b7e">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\cardview-v7-22.2.0.aar\851d6179db74333125c67e20fa0421d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\2666897ca5be7ce567edc1802f9868b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\b10dcb5383dbb921b74d394f442a6c72\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\17d0e31a9d0b8a91ce4316907297faee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\41737060304debf068506a66b60a2fdb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88ccdbf844995d5c9c845e087068d27588b2d026">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\material-1.2.1.aar\45fd9830157c704420112bc5cda49539\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\circleimageview-2.0.0.aar\aa6335490fc12535a1b477406cdd6fa8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f1c4f4d583d2ce05e9fffc5f71c42d1b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\expandableTextView-0.1.4.aar\d07bce91bbdf91d8a0ffd30eff36229b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b305cfd7ae732d7c146fe3046aea90f877c3892b">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\b5d3380238a0f43722210c1af49a32aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f88be2723dfdef329f914245cf39a788\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\transforms-1\files-1.1\android-pathview-1.0.8.aar\51d26403551b63c8e9d86e9bba5d5d58\jars\libs\androidsvg-1.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0cb3453e18fffeb053e9b7f052af3dcec9f75b4">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\FDSP\RAHO\RAHO\RAHO\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+
+</items>

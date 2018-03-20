@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.estimote:sdk-0.9.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-0.9.4.aar/8ecd27570b0e9f1e5b914c91514c19be/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sdk-0.9.4.aar/8ecd27570b0e9f1e5b914c91514c19be/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

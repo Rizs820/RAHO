@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\FDSP\\RAHO\\RAHO\\RAHO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harish\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\3239290d17f68f1330f6d26dfbf5313b\\res\\values-small\\values.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "209,278",
+                        "endColumns": "67,66",
+                        "endOffsets": "272,340"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,66",
+                        "endOffsets": "118,185"
+                    }
+                }
+            ]
+        }
+    ]
+}

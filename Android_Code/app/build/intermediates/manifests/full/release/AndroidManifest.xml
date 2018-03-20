@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sdc.gcoej"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Needed for Bluetooth scanning on Android M and above. -->
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="false" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="com.sdc.gcoej.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sdc.gcoej.EventImage"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.sdc.gcoej.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.gun0912.tedpicker.ImagePickerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme_picker" />
+
+        <service android:name="com.sdc.gcoej.MusicService" />
+        <service android:name="com.sdc.gcoej.LocationService" />
+
+        <activity
+            android:name="com.sdc.gcoej.Music"
+            android:label="@string/title_activity_music"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.SelectCity"
+            android:label="@string/title_activity_select_city"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.Checklist"
+            android:label="@string/title_activity_select_city"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.SelectModeOfTransport"
+            android:label="@string/title_activity_select__mode_of_transport"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.CarDirections"
+            android:label="@string/title_activity_car_directions"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDay6Qbk3MQD4Z80MH_HnR36TJGTrd2Ddc" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.sdc.gcoej.BusList"
+            android:label="@string/title_activity_bus_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.ShoppingCurrentCity"
+            android:label="@string/title_activity_shopping_currentcity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.TrainList"
+            android:label="@string/title_activity_train_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.Hotels"
+            android:label="@string/title_activity_hotels"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.MapRealTimeActivity"
+            android:label="@string/title_activity_map"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.sdc.gcoej.Splash"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sdc.gcoej.destinations.funfacts.FunFacts"
+            android:label="@string/title_activity_fun_facts"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.sdc.gcoej.DetectedBeacon" />
+        <activity android:name="com.sdc.gcoej.ShareContact" />
+        <activity
+            android:name="com.sdc.gcoej.login.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.sdc.gcoej.destinations.description.FinalCityInfo" />
+        <activity android:name="com.sdc.gcoej.PlacesOnMap" />
+        <activity android:name="com.sdc.gcoej.MyTrips" />
+        <activity android:name="com.sdc.gcoej.AddNewTrip" />
+        <activity android:name="com.sdc.gcoej.MyTripInfo" />
+        <activity android:name="com.sdc.gcoej.Tweets" />
+
+        <service
+            android:name="com.estimote.sdk.service.BeaconService"
+            android:exported="false" />
+
+        <activity
+            android:name="com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity"
+            android:theme="@style/Theme.Transparent" />
+
+        <receiver android:name="com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>
